@@ -10,11 +10,8 @@ as you type, using a free public API — no page reload needed.
 - Responsive card grid layout
 - Built with vanilla JavaScript — no frameworks or libraries
 
-## 🌐 Live Demo
-The project is live and can be viewed here: <a href="https://recipe-finder-vvidhi.netlify.app" target="_blank">RecipeFinder App</a>
 
-
-🔗 **[Live Demo](https://recipe-finder-vvidhi.netlify.app)**
+🔗 **[Live Demo](https://vidhiparmar28.github.io/Recipe-Finder/)**
 
 ## Screenshot
 <img width="957" height="447" alt="recipefinder" src="https://github.com/user-attachments/assets/5083c11b-bddd-4cf3-8305-718b089d6f90" />
